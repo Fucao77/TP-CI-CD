@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="My vue app " />
+  <HelloWorld msg="Axel App " />
 </template>
 
 <script>
